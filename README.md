@@ -1,4 +1,4 @@
-# Netflix-Clone-Web-App-(MERN Stack)
+# Netflix Clone Web App (MERN Stack)
 
 - This is a Netflix clone web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It aims to 
   replicate the basic functionalities and design of the popular streaming platform, Netflix.
